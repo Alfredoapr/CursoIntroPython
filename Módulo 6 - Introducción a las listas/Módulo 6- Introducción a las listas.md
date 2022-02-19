@@ -1,4 +1,4 @@
-# Introducción
+tod# Introducción
 
 Como desarrollador, con frecuencia trabajarás con conjuntos de datos. Es posible que debas administrar varios nombres, edades o direcciones. Almacenar cada valor en una variable individual hace que el código sea más difícil de leer y escribir. Para almacenar varios valores, puedes usar una lista de Python.
 
